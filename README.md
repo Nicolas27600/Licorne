@@ -1,1 +1,3 @@
 # Licorne
+
+Simple HTML page.
